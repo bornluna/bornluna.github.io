@@ -17,4 +17,4 @@ IIS 应用程序池Recycle大致步骤:
 	5. 恢复其他AppDomain的线程的执行
 
 
-参考：CLR var C#
+参考：CLR via C#
