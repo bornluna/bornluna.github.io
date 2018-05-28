@@ -15,3 +15,6 @@ IIS 应用程序池Recycle大致步骤:
 	3. 等待线程，如果它正在类的构造、catch代码、finally代码、CER代码、非托管代码
 	4. 强制垃圾回收对应AppDomain
 	5. 恢复其他AppDomain的线程的执行
+
+
+参考：CLR var C#
